@@ -7,6 +7,8 @@ from langchain.callbacks import StreamlitCallbackHandler
 import os
 from dotenv import load_dotenv
 
+## COde:
+
 load_dotenv()
 
 ## USed the inbuilt tool of Wikipedia
