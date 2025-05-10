@@ -7,7 +7,7 @@ from langchain.callbacks import StreamlitCallbackHandler
 import os
 from dotenv import load_dotenv
 
-## COde:
+## Code starts from here:
 
 load_dotenv()
 
